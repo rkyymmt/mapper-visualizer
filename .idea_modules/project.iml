@@ -1,0 +1,89 @@
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="scala" name="Scala">
+      <configuration>
+        <option value="Project" name="compilerLibraryLevel"></option>
+        <option value="scala-2.8.1" name="compilerLibraryName"></option>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project\target\scala_2.8.1"></output>
+    <output-test url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project\target\scala_2.8.1"></output-test>
+    <exclude-output></exclude-output>
+    <content url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project">
+      <sourceFolder isTestSource="false" url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project"></sourceFolder>
+      <sourceFolder isTestSource="false" url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project/plugins"></sourceFolder>
+      <excludeFolder url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project/boot"></excludeFolder>
+      <excludeFolder url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project/target"></excludeFolder>
+      <excludeFolder url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project/plugins/target"></excludeFolder>
+      <excludeFolder url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project/plugins/project/target"></excludeFolder>
+    </content>
+    <orderEntry type="inheritedJdk"></orderEntry>
+    <orderEntry type="sourceFolder" forTests="false"></orderEntry>
+    <orderEntry type="module-library">
+      <library name="sbt-and-plugins">
+        <CLASSES>
+          <root url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1"></root>
+          <root 
+          url="jar://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1/xsbti/interface-0.10.1.jar!/">
+</root>
+          <root url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project\plugins\target\scala-2.8.1.final\classes"></root>
+          <root url="file://C:\Users\rikiya\IdeaProjects\mapper-visualizer\project\target\scala_2.8.1"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\commons-io\commons-io\jars\commons-io-2.0.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\completion_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\task-system_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\ivy_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\run_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\commons-httpclient-3.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\tracking_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\jline-0.9.94.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\classpath_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\io_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\commons-logging-1.0.4.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\commons-codec-1.2.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\process_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\actions_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\lib\scala-compiler.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\sbt_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\jsch-0.1.31.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\launcher-interface_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\main_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\api_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\org.scalaz\scalaz-core_2.8.1\jars\scalaz-core_2.8.1-6.0.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\com.github.mpeltonen\sbt-idea_2.8.1\jars\sbt-idea_2.8.1-0.10.0.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\control_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\xsbti\interface-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\tasks_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\persist_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\discovery_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\classfile_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\collections_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\test-interface-0.5.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\lib\scala-library.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\ivy-2.2.0.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\com.typesafe.sbteclipse\sbteclipse_2.8.1\jars\sbteclipse_2.8.1-1.3-RC3.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\compile_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\sbinary_2.8.1-0.4.0.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\incremental-compiler_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\lib\jline.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\logging_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\cache_2.8.1-0.10.1.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.conscript\boot\scala-2.8.1\org.scala-tools.sbt\sbt\0.10.1\testing_2.8.1-0.10.1.jar!/"></root>
+        </CLASSES>
+        <JAVADOC> </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\org.scala-lang\scala-library\srcs\scala-library-2.9.0-1-sources.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\org.scala-lang\scala-compiler\srcs\scala-compiler-2.9.0-1-sources.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\org.scala-tools.sbinary\sbinary_2.8.1\srcs\sbinary_2.8.1-0.4.0-sources.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\org.apache.ivy\ivy\srcs\ivy-2.2.0-sources.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\com.jcraft\jsch\srcs\jsch-0.1.31-sources.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\commons-httpclient\commons-httpclient\srcs\commons-httpclient-3.1-sources.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\commons-logging\commons-logging\srcs\commons-logging-1.0.4-sources.jar!/"></root>
+          <root url="jar://C:\Users\rikiya\.ivy2\cache\jline\jline\srcs\jline-0.9.94-sources.jar!/"></root>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry level="project" type="library" name="scala-2.8.1"></orderEntry>
+  </component>
+</module>

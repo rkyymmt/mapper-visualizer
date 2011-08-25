@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="axis_axis_1.4">
+    <CLASSES>
+      <root url="jar://$USER_HOME$\.ivy2\cache\axis\axis\jars\axis-1.4.jar!/"></root>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$\.ivy2\cache\axis\axis\srcs\axis-1.4-sources.jar!/"></root>
+    </SOURCES>
+  </library>
+</component>

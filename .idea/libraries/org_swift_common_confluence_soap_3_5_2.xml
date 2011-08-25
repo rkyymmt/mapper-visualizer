@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="org.swift.common_confluence-soap_3.5.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$\.ivy2\cache\org.swift.common\confluence-soap\jars\confluence-soap-3.5.2.jar!/"></root>
+    </CLASSES>
+    <JAVADOC> </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$\.ivy2\cache\org.swift.common\confluence-soap\srcs\confluence-soap-3.5.2-sources.jar!/"></root>
+    </SOURCES>
+  </library>
+</component>
